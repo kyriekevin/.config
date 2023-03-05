@@ -1,3 +1,0 @@
-INDEX VERSION 1.132+/home/zyz/.config/coc/extensions/coc-java-data/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
-3116672116.index
-3842426239.index
